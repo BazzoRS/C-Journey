@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\bin\Debug\net10.0\TypeConvertiontwo.exe
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\bin\Debug\net10.0\TypeConvertiontwo.deps.json
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\bin\Debug\net10.0\TypeConvertiontwo.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\bin\Debug\net10.0\TypeConvertiontwo.dll
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\bin\Debug\net10.0\TypeConvertiontwo.pdb
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\TypeConvertiontwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\TypeConvertiontwo.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\TypeConvertiontwo.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\TypeConvertiontwo.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\TypeConvertiontwo.dll
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\refint\TypeConvertiontwo.dll
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\TypeConvertiontwo.pdb
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\TypeConvertiontwo.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertiontwo\obj\Debug\net10.0\ref\TypeConvertiontwo.dll

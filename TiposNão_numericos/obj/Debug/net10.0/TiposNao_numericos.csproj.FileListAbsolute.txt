@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\TiposNao_numericos.exe
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\TiposNao_numericos.deps.json
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\TiposNao_numericos.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\TiposNao_numericos.dll
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\TiposNao_numericos.pdb
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\TiposNao_numericos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\TiposNao_numericos.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\TiposNao_numericos.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\TiposNao_numericos.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\TiposNao_numericos.dll
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\refint\TiposNao_numericos.dll
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\TiposNao_numericos.pdb
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\TiposNao_numericos.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\ref\TiposNao_numericos.dll

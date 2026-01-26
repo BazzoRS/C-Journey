@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bazzo\\source\\repos\\First_Class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42FFCB74-70F1-445F-ACF5-A3A014910214}|output_formating\\output_formating.csproj|c:\\users\\bazzo\\source\\repos\\first_class\\output_formating\\output_formating.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{42FFCB74-70F1-445F-ACF5-A3A014910214}|output_formating\\output_formating.csproj|solutionrelative:output_formating\\output_formating.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DC650452-4D2E-404F-A987-0926E9B1C561}|Numeros_flutuantes\\Numeros_flutuantes.csproj|c:\\users\\bazzo\\source\\repos\\first_class\\numeros_flutuantes\\numeros_flutuantes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DC650452-4D2E-404F-A987-0926E9B1C561}|Numeros_flutuantes\\Numeros_flutuantes.csproj|solutionrelative:numeros_flutuantes\\numeros_flutuantes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851BCA5A-81F5-431F-B6F6-9BA664DDC757}|TypeConvertiontwo\\TypeConvertiontwo.csproj|c:\\users\\bazzo\\source\\repos\\first_class\\typeconvertiontwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{851BCA5A-81F5-431F-B6F6-9BA664DDC757}|TypeConvertiontwo\\TypeConvertiontwo.csproj|solutionrelative:typeconvertiontwo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "output_formating.csproj",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\First_Class\\output_formating\\output_formating.csproj",
+              "RelativeDocumentMoniker": "output_formating\\output_formating.csproj",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\First_Class\\output_formating\\output_formating.csproj",
+              "RelativeToolTip": "output_formating\\output_formating.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T19:40:03.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Numeros_flutuantes.csproj",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\First_Class\\Numeros_flutuantes\\Numeros_flutuantes.csproj",
+              "RelativeDocumentMoniker": "Numeros_flutuantes\\Numeros_flutuantes.csproj",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\First_Class\\Numeros_flutuantes\\Numeros_flutuantes.csproj",
+              "RelativeToolTip": "Numeros_flutuantes\\Numeros_flutuantes.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-26T19:39:50.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\First_Class\\TypeConvertiontwo\\Program.cs",
+              "RelativeDocumentMoniker": "TypeConvertiontwo\\Program.cs",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\First_Class\\TypeConvertiontwo\\Program.cs",
+              "RelativeToolTip": "TypeConvertiontwo\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-26T19:05:43.562Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

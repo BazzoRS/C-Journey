@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Numeros_flutuantes/1.0.0": {
+        "runtime": {
+          "Numeros_flutuantes.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Numeros_flutuantes/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

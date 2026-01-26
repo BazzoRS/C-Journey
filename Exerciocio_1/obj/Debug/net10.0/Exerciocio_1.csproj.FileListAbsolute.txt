@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\bin\Debug\net10.0\Exerciocio_1.exe
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\bin\Debug\net10.0\Exerciocio_1.deps.json
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\bin\Debug\net10.0\Exerciocio_1.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\bin\Debug\net10.0\Exerciocio_1.dll
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\bin\Debug\net10.0\Exerciocio_1.pdb
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.dll
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\refint\Exerciocio_1.dll
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.pdb
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\ref\Exerciocio_1.dll

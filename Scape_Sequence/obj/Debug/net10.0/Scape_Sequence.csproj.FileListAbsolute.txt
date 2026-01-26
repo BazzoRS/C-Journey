@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\bin\Debug\net10.0\Scape_Sequence.exe
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\bin\Debug\net10.0\Scape_Sequence.deps.json
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\bin\Debug\net10.0\Scape_Sequence.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\bin\Debug\net10.0\Scape_Sequence.dll
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\bin\Debug\net10.0\Scape_Sequence.pdb
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.dll
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\refint\Scape_Sequence.dll
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.pdb
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\ref\Scape_Sequence.dll

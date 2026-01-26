@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\bin\Debug\net10.0\Numeros_flutuantes.exe
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\bin\Debug\net10.0\Numeros_flutuantes.deps.json
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\bin\Debug\net10.0\Numeros_flutuantes.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\bin\Debug\net10.0\Numeros_flutuantes.dll
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\bin\Debug\net10.0\Numeros_flutuantes.pdb
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.dll
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\refint\Numeros_flutuantes.dll
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.pdb
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\ref\Numeros_flutuantes.dll

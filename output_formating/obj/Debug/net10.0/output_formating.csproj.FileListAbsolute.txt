@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\output_formating\bin\Debug\net10.0\output_formating.exe
+C:\Users\Bazzo\source\repos\First_Class\output_formating\bin\Debug\net10.0\output_formating.deps.json
+C:\Users\Bazzo\source\repos\First_Class\output_formating\bin\Debug\net10.0\output_formating.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\output_formating\bin\Debug\net10.0\output_formating.dll
+C:\Users\Bazzo\source\repos\First_Class\output_formating\bin\Debug\net10.0\output_formating.pdb
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.dll
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\refint\output_formating.dll
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.pdb
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\ref\output_formating.dll

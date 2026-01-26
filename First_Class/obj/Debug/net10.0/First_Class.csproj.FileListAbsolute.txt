@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\First_Class.exe
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\First_Class.deps.json
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\First_Class.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\First_Class.dll
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\First_Class.pdb
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\First_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\First_Class.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\First_Class.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\First_Class.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\First_Class.dll
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\refint\First_Class.dll
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\First_Class.pdb
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\First_Class.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\ref\First_Class.dll
