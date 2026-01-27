@@ -1,7 +1,9 @@
 <Solution>
+  <Project Path="Arithmetic_operators/Arithmetic_operators.csproj" Id="b912b71d-69c0-4c4c-a309-f350ff8a4637" />
   <Project Path="DataHora/DataHora.csproj" Id="5ed4cf69-51ee-4b54-96ad-0deba7c969c5" />
   <Project Path="Exerciocio_1/Exerciocio_1.csproj" Id="5bbcf87c-ca8b-4039-9d9f-2d3dcea3277a" />
   <Project Path="First_Class/IntergerNumber.csproj" />
+  <Project Path="InputDataConsole/InputDataConsole.csproj" Id="a6a092aa-ac09-4060-8fa5-a01611467dad" />
   <Project Path="NamingConvention/NamingConvention.csproj" Id="bafae0c2-ed69-402d-8229-ca7ddb75b47a" />
   <Project Path="Nullable_types/Nullable_types.csproj" Id="96c436aa-3d67-4d58-941f-b1d1040a7790" />
   <Project Path="Numeros_flutuantes/Numeros_flutuantes.csproj" Id="dc650452-4d2e-404f-a987-0926e9b1c561" />
