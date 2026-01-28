@@ -12,3 +12,4 @@ C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\refint\
 C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.pdb
 C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.genruntimeconfig.cache
 C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\ref\Scape_Sequence.dll
+C:\Users\Bazzo\source\repos\First_Class\Scape_Sequence\obj\Debug\net10.0\Scape_Sequence.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\IntergerNumber.exe
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\IntergerNumber.deps.json
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\IntergerNumber.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\IntergerNumber.dll
+C:\Users\Bazzo\source\repos\First_Class\First_Class\bin\Debug\net10.0\IntergerNumber.pdb
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.dll
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\refint\IntergerNumber.dll
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.pdb
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\IntergerNumber.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\First_Class\obj\Debug\net10.0\ref\IntergerNumber.dll

@@ -12,3 +12,4 @@ C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\refint\Ex
 C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.pdb
 C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.genruntimeconfig.cache
 C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\ref\Exerciocio_1.dll
+C:\Users\Bazzo\source\repos\First_Class\Exerciocio_1\obj\Debug\net10.0\Exerciocio_1.sourcelink.json

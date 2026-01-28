@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\bin\Debug\net10.0\NullableRefTypes.exe
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\bin\Debug\net10.0\NullableRefTypes.deps.json
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\bin\Debug\net10.0\NullableRefTypes.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\bin\Debug\net10.0\NullableRefTypes.dll
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\bin\Debug\net10.0\NullableRefTypes.pdb
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.dll
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\refint\NullableRefTypes.dll
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.pdb
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\NullableRefTypes.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\NullableRefTypes\obj\Debug\net10.0\ref\NullableRefTypes.dll

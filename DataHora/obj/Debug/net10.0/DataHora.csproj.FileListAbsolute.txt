@@ -12,3 +12,4 @@ C:\Users\Bazzo\source\repos\First_Class\DataHora\obj\Debug\net10.0\refint\DataHo
 C:\Users\Bazzo\source\repos\First_Class\DataHora\obj\Debug\net10.0\DataHora.pdb
 C:\Users\Bazzo\source\repos\First_Class\DataHora\obj\Debug\net10.0\DataHora.genruntimeconfig.cache
 C:\Users\Bazzo\source\repos\First_Class\DataHora\obj\Debug\net10.0\ref\DataHora.dll
+C:\Users\Bazzo\source\repos\First_Class\DataHora\obj\Debug\net10.0\DataHora.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\bin\Debug\net10.0\IncreaseAndDecreaseOp.exe
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\bin\Debug\net10.0\IncreaseAndDecreaseOp.deps.json
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\bin\Debug\net10.0\IncreaseAndDecreaseOp.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\bin\Debug\net10.0\IncreaseAndDecreaseOp.dll
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\bin\Debug\net10.0\IncreaseAndDecreaseOp.pdb
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.dll
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\refint\IncreaseAndDecreaseOp.dll
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.pdb
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\IncreaseAndDecreaseOp.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\IncreaseAndDecreaseOp\obj\Debug\net10.0\ref\IncreaseAndDecreaseOp.dll

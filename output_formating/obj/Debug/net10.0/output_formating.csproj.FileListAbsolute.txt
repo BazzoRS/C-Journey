@@ -12,3 +12,4 @@ C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\refin
 C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.pdb
 C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.genruntimeconfig.cache
 C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\ref\output_formating.dll
+C:\Users\Bazzo\source\repos\First_Class\output_formating\obj\Debug\net10.0\output_formating.sourcelink.json

@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\bin\Debug\net10.0\TernaryOperator.exe
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\bin\Debug\net10.0\TernaryOperator.deps.json
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\bin\Debug\net10.0\TernaryOperator.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\bin\Debug\net10.0\TernaryOperator.dll
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\bin\Debug\net10.0\TernaryOperator.pdb
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.dll
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\refint\TernaryOperator.dll
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.pdb
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\TernaryOperator.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\TernaryOperator\obj\Debug\net10.0\ref\TernaryOperator.dll

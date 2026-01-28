@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Numeros_flutuantes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0fd696dce3504338c86112d37f9b3b88905e696")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+10f88fa5ee3b069be1a1412736663907d88774e1")]
 [assembly: System.Reflection.AssemblyProductAttribute("Numeros_flutuantes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Numeros_flutuantes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

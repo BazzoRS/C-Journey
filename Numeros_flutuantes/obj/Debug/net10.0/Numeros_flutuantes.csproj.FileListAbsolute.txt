@@ -12,3 +12,4 @@ C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\ref
 C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.pdb
 C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.genruntimeconfig.cache
 C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\ref\Numeros_flutuantes.dll
+C:\Users\Bazzo\source\repos\First_Class\Numeros_flutuantes\obj\Debug\net10.0\Numeros_flutuantes.sourcelink.json

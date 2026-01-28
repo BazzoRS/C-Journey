@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\bin\Debug\net10.0\OperatorsAssociation.exe
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\bin\Debug\net10.0\OperatorsAssociation.deps.json
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\bin\Debug\net10.0\OperatorsAssociation.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\bin\Debug\net10.0\OperatorsAssociation.dll
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\bin\Debug\net10.0\OperatorsAssociation.pdb
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.dll
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\refint\OperatorsAssociation.dll
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.pdb
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\OperatorsAssociation.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\OperatorsAssociation\obj\Debug\net10.0\ref\OperatorsAssociation.dll

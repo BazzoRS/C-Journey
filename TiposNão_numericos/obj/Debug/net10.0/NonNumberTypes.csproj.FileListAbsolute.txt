@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\NonNumberTypes.exe
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\NonNumberTypes.deps.json
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\NonNumberTypes.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\NonNumberTypes.dll
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\bin\Debug\net10.0\NonNumberTypes.pdb
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.dll
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\refint\NonNumberTypes.dll
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.pdb
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\NonNumberTypes.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\TiposNão_numericos\obj\Debug\net10.0\ref\NonNumberTypes.dll

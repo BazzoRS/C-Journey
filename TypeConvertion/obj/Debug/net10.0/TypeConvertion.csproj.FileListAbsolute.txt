@@ -12,3 +12,4 @@ C:\Users\Bazzo\source\repos\First_Class\TypeConvertion\obj\Debug\net10.0\refint\
 C:\Users\Bazzo\source\repos\First_Class\TypeConvertion\obj\Debug\net10.0\TypeConvertion.pdb
 C:\Users\Bazzo\source\repos\First_Class\TypeConvertion\obj\Debug\net10.0\TypeConvertion.genruntimeconfig.cache
 C:\Users\Bazzo\source\repos\First_Class\TypeConvertion\obj\Debug\net10.0\ref\TypeConvertion.dll
+C:\Users\Bazzo\source\repos\First_Class\TypeConvertion\obj\Debug\net10.0\TypeConvertion.sourcelink.json
