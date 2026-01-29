@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\If_usage\Looping\bin\Debug\net10.0\Looping.exe
+C:\Users\Bazzo\source\repos\If_usage\Looping\bin\Debug\net10.0\Looping.deps.json
+C:\Users\Bazzo\source\repos\If_usage\Looping\bin\Debug\net10.0\Looping.runtimeconfig.json
+C:\Users\Bazzo\source\repos\If_usage\Looping\bin\Debug\net10.0\Looping.dll
+C:\Users\Bazzo\source\repos\If_usage\Looping\bin\Debug\net10.0\Looping.pdb
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\Looping.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\Looping.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\Looping.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\Looping.dll
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\refint\Looping.dll
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\Looping.pdb
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\Looping.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\If_usage\Looping\obj\Debug\net10.0\ref\Looping.dll

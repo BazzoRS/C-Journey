@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\bin\Debug\net10.0\Switch_two.exe
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\bin\Debug\net10.0\Switch_two.deps.json
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\bin\Debug\net10.0\Switch_two.runtimeconfig.json
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\bin\Debug\net10.0\Switch_two.dll
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\bin\Debug\net10.0\Switch_two.pdb
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\Switch_two.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\Switch_two.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\Switch_two.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\Switch_two.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\Switch_two.dll
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\refint\Switch_two.dll
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\Switch_two.pdb
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\Switch_two.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\If_usage\Switch_two\obj\Debug\net10.0\ref\Switch_two.dll
