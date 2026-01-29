@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_two\\Switch_two.csproj",
+      "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_two\\Switch_two.csproj",
       "projectName": "Switch_two",
-      "projectPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_two\\Switch_two.csproj",
+      "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_two\\Switch_two.csproj",
       "packagesPath": "C:\\Users\\Bazzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_two\\obj\\",
+      "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_two\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

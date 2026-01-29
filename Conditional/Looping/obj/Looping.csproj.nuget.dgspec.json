@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Looping\\Looping.csproj": {}
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Looping\\Looping.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Looping\\Looping.csproj": {
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Looping\\Looping.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Looping\\Looping.csproj",
+        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Looping\\Looping.csproj",
         "projectName": "Looping",
-        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Looping\\Looping.csproj",
+        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Looping\\Looping.csproj",
         "packagesPath": "C:\\Users\\Bazzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Looping\\obj\\",
+        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Looping\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

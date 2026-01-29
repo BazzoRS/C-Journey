@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\ElseIf_instruction\\ElseIf_instruction.csproj": {}
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\ElseIf_instruction\\ElseIf_instruction.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\ElseIf_instruction\\ElseIf_instruction.csproj": {
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\ElseIf_instruction\\ElseIf_instruction.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\ElseIf_instruction\\ElseIf_instruction.csproj",
+        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\ElseIf_instruction\\ElseIf_instruction.csproj",
         "projectName": "ElseIf_instruction",
-        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\ElseIf_instruction\\ElseIf_instruction.csproj",
+        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\ElseIf_instruction\\ElseIf_instruction.csproj",
         "packagesPath": "C:\\Users\\Bazzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\ElseIf_instruction\\obj\\",
+        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\ElseIf_instruction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

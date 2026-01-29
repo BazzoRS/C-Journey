@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_Case\\Switch_Case.csproj": {}
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_Case\\Switch_Case.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_Case\\Switch_Case.csproj": {
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_Case\\Switch_Case.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_Case\\Switch_Case.csproj",
+        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_Case\\Switch_Case.csproj",
         "projectName": "Switch_Case",
-        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_Case\\Switch_Case.csproj",
+        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_Case\\Switch_Case.csproj",
         "packagesPath": "C:\\Users\\Bazzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Switch_Case\\obj\\",
+        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_Case\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

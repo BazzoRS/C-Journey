@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\While_Statment\\While_Statment.csproj": {}
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\While_Statment\\While_Statment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bazzo\\source\\repos\\If_usage\\While_Statment\\While_Statment.csproj": {
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\While_Statment\\While_Statment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\While_Statment\\While_Statment.csproj",
+        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\While_Statment\\While_Statment.csproj",
         "projectName": "While_Statment",
-        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\While_Statment\\While_Statment.csproj",
+        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\While_Statment\\While_Statment.csproj",
         "packagesPath": "C:\\Users\\Bazzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\While_Statment\\obj\\",
+        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\While_Statment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
