@@ -1,0 +1,12 @@
+<Solution>
+  <Project Path="Break_Continue/Break_Continue.csproj" Id="1ea075c0-32d3-4df3-aeb7-347aab5dad46" />
+  <Project Path="ElseIf_instruction/ElseIf_instruction.csproj" />
+  <Project Path="If_usage/If_usage.csproj" />
+  <Project Path="Instruction4i/Instruction4i.csproj" Id="4304e600-95a5-432b-9099-dda049fd115c" />
+  <Project Path="Looping/Looping.csproj" Id="dc16d3ef-59a2-4fac-8596-efbe509f853c" />
+  <Project Path="Loop_Do_While/Loop_Do_While.csproj" Id="166da943-abbc-4447-bb47-ad083f606652" />
+  <Project Path="Switch_Case/Switch_Case.csproj" Id="807a6754-4586-4ae5-9b15-6b269c39d107" />
+  <Project Path="Switch_two/Switch_two.csproj" Id="41f202f5-9985-4c26-af2e-61761d437216" />
+  <Project Path="WhileII_Operator/WhileII_Operator.csproj" Id="bb6210f4-6f82-413d-acfe-f02f9a94e378" />
+  <Project Path="While_Statment/While_Statment.csproj" Id="9bf1f55c-eb4e-4d9c-ac31-1e3fdeabe4a2" />
+</Solution>
