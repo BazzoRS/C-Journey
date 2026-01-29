@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\If_usage\\If_usage.csproj",
+      "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\If_usage\\If_usage.csproj",
       "projectName": "If_usage",
-      "projectPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\If_usage\\If_usage.csproj",
+      "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\If_usage\\If_usage.csproj",
       "packagesPath": "C:\\Users\\Bazzo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\If_usage\\obj\\",
+      "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\If_usage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,18 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\",
+  "WorkspaceRootPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1EA075C0-32D3-4DF3-AEB7-347AAB5DAD46}|Break_Continue\\Break_Continue.csproj|c:\\users\\bazzo\\source\\repos\\if_usage\\break_continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1EA075C0-32D3-4DF3-AEB7-347AAB5DAD46}|Break_Continue\\Break_Continue.csproj|solutionrelative:break_continue\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4304E600-95A5-432B-9099-DDA049FD115C}|Instruction4i\\Instruction4i.csproj|c:\\users\\bazzo\\source\\repos\\if_usage\\instruction4i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4304E600-95A5-432B-9099-DDA049FD115C}|Instruction4i\\Instruction4i.csproj|solutionrelative:instruction4i\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{166DA943-ABBC-4447-BB47-AD083F606652}|Loop_Do_While\\Loop_Do_While.csproj|c:\\users\\bazzo\\source\\repos\\if_usage\\loop_do_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{166DA943-ABBC-4447-BB47-AD083F606652}|Loop_Do_While\\Loop_Do_While.csproj|solutionrelative:loop_do_while\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDD95F11-138B-4AB9-B92D-8DBF152839C9}|Exam_Challenge\\Exam_Challenge.csproj|c:\\users\\bazzo\\source\\repos\\c_journey\\conditional\\exam_challenge\\ex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD95F11-138B-4AB9-B92D-8DBF152839C9}|Exam_Challenge\\Exam_Challenge.csproj|solutionrelative:exam_challenge\\ex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Break_Continue\\Program.cs",
-              "RelativeDocumentMoniker": "Break_Continue\\Program.cs",
-              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Break_Continue\\Program.cs",
-              "RelativeToolTip": "Break_Continue\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAQAAAAAAAAAA==",
+              "Title": "Ex6.cs",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Exam_Challenge\\Ex6.cs",
+              "RelativeDocumentMoniker": "Exam_Challenge\\Ex6.cs",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Exam_Challenge\\Ex6.cs",
+              "RelativeToolTip": "Exam_Challenge\\Ex6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T01:51:09.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Instruction4i\\Program.cs",
-              "RelativeDocumentMoniker": "Instruction4i\\Program.cs",
-              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Instruction4i\\Program.cs",
-              "RelativeToolTip": "Instruction4i\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T18:37:50.739Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Loop_Do_While\\Program.cs",
-              "RelativeDocumentMoniker": "Loop_Do_While\\Program.cs",
-              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\If_usage\\Loop_Do_While\\Program.cs",
-              "RelativeToolTip": "Loop_Do_While\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T18:26:21.378Z",
+              "WhenOpened": "2026-01-29T20:29:10.334Z",
               "EditorCaption": ""
             }
           ]

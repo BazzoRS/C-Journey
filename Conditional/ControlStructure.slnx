@@ -1,6 +1,7 @@
 <Solution>
   <Project Path="Break_Continue/Break_Continue.csproj" Id="1ea075c0-32d3-4df3-aeb7-347aab5dad46" />
   <Project Path="ElseIf_instruction/ElseIf_instruction.csproj" />
+  <Project Path="Exam_Challenge/Exam_Challenge.csproj" Id="edd95f11-138b-4ab9-b92d-8dbf152839c9" />
   <Project Path="If_usage/If_usage.csproj" />
   <Project Path="Instruction4i/Instruction4i.csproj" Id="4304e600-95a5-432b-9099-dda049fd115c" />
   <Project Path="Looping/Looping.csproj" Id="dc16d3ef-59a2-4fac-8596-efbe509f853c" />
