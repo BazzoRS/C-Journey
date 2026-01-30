@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDD95F11-138B-4AB9-B92D-8DBF152839C9}|Exam_Challenge\\Exam_Challenge.csproj|c:\\users\\bazzo\\source\\repos\\c_journey\\conditional\\exam_challenge\\ex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDD95F11-138B-4AB9-B92D-8DBF152839C9}|Exam_Challenge\\Exam_Challenge.csproj|solutionrelative:exam_challenge\\ex6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDD95F11-138B-4AB9-B92D-8DBF152839C9}|Exam_Challenge\\Exam_Challenge.csproj|c:\\users\\bazzo\\source\\repos\\c_journey\\conditional\\exam_challenge\\ex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDD95F11-138B-4AB9-B92D-8DBF152839C9}|Exam_Challenge\\Exam_Challenge.csproj|solutionrelative:exam_challenge\\ex10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41F202F5-9985-4C26-AF2E-61761D437216}|Switch_two\\Switch_two.csproj|c:\\users\\bazzo\\source\\repos\\c_journey\\conditional\\switch_two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41F202F5-9985-4C26-AF2E-61761D437216}|Switch_two\\Switch_two.csproj|solutionrelative:switch_two\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Ex6.cs",
-              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Exam_Challenge\\Ex6.cs",
-              "RelativeDocumentMoniker": "Exam_Challenge\\Ex6.cs",
-              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Exam_Challenge\\Ex6.cs*",
-              "RelativeToolTip": "Exam_Challenge\\Ex6.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAfAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_two\\Program.cs",
+              "RelativeDocumentMoniker": "Switch_two\\Program.cs",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Switch_two\\Program.cs",
+              "RelativeToolTip": "Switch_two\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T20:29:10.334Z",
+              "WhenOpened": "2026-01-30T19:49:02.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ex10.cs",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Exam_Challenge\\Ex10.cs",
+              "RelativeDocumentMoniker": "Exam_Challenge\\Ex10.cs",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Conditional\\Exam_Challenge\\Ex10.cs",
+              "RelativeToolTip": "Exam_Challenge\\Ex10.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:58:09.746Z",
               "EditorCaption": ""
             }
           ]
