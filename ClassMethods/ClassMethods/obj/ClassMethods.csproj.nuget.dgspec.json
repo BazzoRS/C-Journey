@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class&Mathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj": {}
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class&Mathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj": {
+    "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class&Mathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj",
+        "projectUniqueName": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj",
         "projectName": "ClassMethods",
-        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class&Mathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj",
+        "projectPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ClassMethods.csproj",
         "packagesPath": "C:\\Users\\Bazzo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class&Mathods\\ClassMethods\\ClassMethods\\obj\\",
+        "outputPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

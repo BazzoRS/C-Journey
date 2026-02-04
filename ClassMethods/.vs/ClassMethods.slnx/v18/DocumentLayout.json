@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class\u0026Mathods\\ClassMethods\\",
+  "WorkspaceRootPath": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5D7E3774-0CF1-46E6-86C5-3CA8F3ED2E72}|ClassMethods\\ClassMethods.csproj|c:\\users\\bazzo\\source\\repos\\c_journey\\class\u0026mathods\\classmethods\\classmethods\\passingparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5D7E3774-0CF1-46E6-86C5-3CA8F3ED2E72}|ClassMethods\\ClassMethods.csproj|solutionrelative:classmethods\\passingparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7F04066F-F368-0366-BD3F-CE4D90818CF2}|ClassMethods\\ClassMethods.csproj|c:\\users\\bazzo\\source\\repos\\c_journey\\classmathods\\classmethods\\classmethods\\classmethod_this.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04066F-F368-0366-BD3F-CE4D90818CF2}|ClassMethods\\ClassMethods.csproj|solutionrelative:classmethods\\classmethod_this.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F04066F-F368-0366-BD3F-CE4D90818CF2}|ClassMethods\\ClassMethods.csproj|c:\\users\\bazzo\\source\\repos\\c_journey\\classmathods\\classmethods\\classmethods\\constructorii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F04066F-F368-0366-BD3F-CE4D90818CF2}|ClassMethods\\ClassMethods.csproj|solutionrelative:classmethods\\constructorii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +18,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PassingParameters.cs",
-              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class\u0026Mathods\\ClassMethods\\ClassMethods\\PassingParameters.cs",
-              "RelativeDocumentMoniker": "ClassMethods\\PassingParameters.cs",
-              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\Class\u0026Mathods\\ClassMethods\\ClassMethods\\PassingParameters.cs",
-              "RelativeToolTip": "ClassMethods\\PassingParameters.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAC0AAAA2AAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ConstructorII.cs",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ConstructorII.cs",
+              "RelativeDocumentMoniker": "ClassMethods\\ConstructorII.cs",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ConstructorII.cs",
+              "RelativeToolTip": "ClassMethods\\ConstructorII.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-04T00:32:39.227Z",
+              "WhenOpened": "2026-02-04T14:52:32.685Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassMethod_THIS.cs",
+              "DocumentMoniker": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ClassMethod_THIS.cs",
+              "RelativeDocumentMoniker": "ClassMethods\\ClassMethod_THIS.cs",
+              "ToolTip": "C:\\Users\\Bazzo\\source\\repos\\C_journey\\ClassMathods\\ClassMethods\\ClassMethods\\ClassMethod_THIS.cs",
+              "RelativeToolTip": "ClassMethods\\ClassMethod_THIS.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-04T18:46:08.218Z",
               "EditorCaption": ""
             }
           ]
