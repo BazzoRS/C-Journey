@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\bin\Debug\net10.0\While_Statment.exe
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\bin\Debug\net10.0\While_Statment.deps.json
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\bin\Debug\net10.0\While_Statment.runtimeconfig.json
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\bin\Debug\net10.0\While_Statment.dll
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\bin\Debug\net10.0\While_Statment.pdb
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\While_Statment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\While_Statment.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\While_Statment.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\While_Statment.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\While_Statment.dll
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\refint\While_Statment.dll
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\While_Statment.pdb
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\While_Statment.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\If_usage\While_Statment\obj\Debug\net10.0\ref\While_Statment.dll

@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\bin\Debug\net10.0\BaskaraChallenge.exe
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\bin\Debug\net10.0\BaskaraChallenge.deps.json
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\bin\Debug\net10.0\BaskaraChallenge.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\bin\Debug\net10.0\BaskaraChallenge.dll
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\bin\Debug\net10.0\BaskaraChallenge.pdb
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.dll
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\refint\BaskaraChallenge.dll
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.pdb
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\BaskaraChallenge.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\BaskaraChallenge\obj\Debug\net10.0\ref\BaskaraChallenge.dll

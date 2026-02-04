@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\bin\Debug\net10.0\Exam_Challenge.exe
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\bin\Debug\net10.0\Exam_Challenge.deps.json
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\bin\Debug\net10.0\Exam_Challenge.runtimeconfig.json
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\bin\Debug\net10.0\Exam_Challenge.dll
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\bin\Debug\net10.0\Exam_Challenge.pdb
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.sourcelink.json
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.dll
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\refint\Exam_Challenge.dll
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.pdb
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\Exam_Challenge.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Exam_Challenge\obj\Debug\net10.0\ref\Exam_Challenge.dll

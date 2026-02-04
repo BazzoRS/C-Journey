@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\Constants\bin\Debug\net10.0\Constants.exe
+C:\Users\Bazzo\source\repos\First_Class\Constants\bin\Debug\net10.0\Constants.deps.json
+C:\Users\Bazzo\source\repos\First_Class\Constants\bin\Debug\net10.0\Constants.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\Constants\bin\Debug\net10.0\Constants.dll
+C:\Users\Bazzo\source\repos\First_Class\Constants\bin\Debug\net10.0\Constants.pdb
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.dll
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\refint\Constants.dll
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.pdb
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\Constants.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\Constants\obj\Debug\net10.0\ref\Constants.dll

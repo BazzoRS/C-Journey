@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\bin\Debug\net10.0\AtribuitionOperators.exe
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\bin\Debug\net10.0\AtribuitionOperators.deps.json
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\bin\Debug\net10.0\AtribuitionOperators.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\bin\Debug\net10.0\AtribuitionOperators.dll
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\bin\Debug\net10.0\AtribuitionOperators.pdb
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.dll
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\refint\AtribuitionOperators.dll
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.pdb
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\AtribuitionOperators.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\AtribuitionOperators\obj\Debug\net10.0\ref\AtribuitionOperators.dll

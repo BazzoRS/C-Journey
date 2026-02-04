@@ -1,0 +1,28 @@
+<Solution>
+  <Project Path="Arithmetic_operators/Arithmetic_operators.csproj" Id="b912b71d-69c0-4c4c-a309-f350ff8a4637" />
+  <Project Path="AtribuitionOperators/AtribuitionOperators.csproj" Id="feeb10f4-9628-4e26-a6b5-b814d8985aac" />
+  <Project Path="BaskaraChallenge/BaskaraChallenge.csproj" Id="98c305ec-0c6c-426b-b5fd-6815435a2793" />
+  <Project Path="Constants/Constants.csproj" Id="9ee48b9f-1038-4245-832f-2b945dccda00" />
+  <Project Path="DataHora/DataHora.csproj" Id="5ed4cf69-51ee-4b54-96ad-0deba7c969c5" />
+  <Project Path="DataInferenceVar/DataInferenceVar.csproj" Id="8f9373fd-f786-461c-9dc9-dfd77631c2ce" />
+  <Project Path="Exercicio2/Exercicio2.csproj" Id="526f6aba-c342-4aa0-8479-261add23f4c8" />
+  <Project Path="Exerciciopt2/Exerciciopt2.csproj" Id="627fba47-7083-4f8e-8330-23342fa750ab" />
+  <Project Path="Exerciocio_1/Exerciocio_1.csproj" Id="5bbcf87c-ca8b-4039-9d9f-2d3dcea3277a" />
+  <Project Path="First_Class/IntergerNumber.csproj" />
+  <Project Path="IncreaseAndDecreaseOp/IncreaseAndDecreaseOp.csproj" Id="89598511-59b8-4e87-909a-c740a62e93bb" />
+  <Project Path="InputDataConsole/InputDataConsole.csproj" Id="a6a092aa-ac09-4060-8fa5-a01611467dad" />
+  <Project Path="LogicalOperators/LogicalOperators.csproj" Id="7136c4a4-b640-4101-b4d5-07296247077a" />
+  <Project Path="NamingConvention/NamingConvention.csproj" Id="bafae0c2-ed69-402d-8229-ca7ddb75b47a" />
+  <Project Path="NullableRefTypes/NullableRefTypes.csproj" Id="46532846-b287-4335-88ca-4fc55bc63eb3" />
+  <Project Path="Nullable_types/Nullable_types.csproj" Id="96c436aa-3d67-4d58-941f-b1d1040a7790" />
+  <Project Path="Numeros_flutuantes/Numeros_flutuantes.csproj" Id="dc650452-4d2e-404f-a987-0926e9b1c561" />
+  <Project Path="OperatorsAssociation/OperatorsAssociation.csproj" Id="85b398c4-75bd-47ce-b104-1ff7a6f64e2e" />
+  <Project Path="output_formating/output_formating.csproj" Id="42ffcb74-70f1-445f-acf5-a3a014910214" />
+  <Project Path="RelationalOperators/RelationalOperators.csproj" Id="7fdc37e8-d8b1-415f-aa1f-dfecd633c3d6" />
+  <Project Path="Scape_Sequence/Scape_Sequence.csproj" Id="ca9c5856-bded-4b3f-9569-d83e4bbc09e0" />
+  <Project Path="TernaryOperator/TernaryOperator.csproj" Id="79033322-de85-4a55-a501-95d6f41711fe" />
+  <Project Path="TiposNão_numericos/NonNumberTypes.csproj" Id="7cf8052d-8dd9-4603-ae5d-8fd737892c60" />
+  <Project Path="Tipos_d_referencia/ReferenceTypes.csproj" Id="7d477cd4-b44e-45de-8053-2628d0f452fc" />
+  <Project Path="TypeConvertion/TypeConvertion.csproj" Id="5eb433c1-c95f-470a-8b2d-0933a43665f7" />
+  <Project Path="TypeConvertiontwo/TypeConvertiontwo.csproj" Id="851bca5a-81f5-431f-b6f6-9ba664ddc757" />
+</Solution>

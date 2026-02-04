@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\bin\Debug\net10.0\Tipos_d_referencia.exe
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\bin\Debug\net10.0\Tipos_d_referencia.deps.json
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\bin\Debug\net10.0\Tipos_d_referencia.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\bin\Debug\net10.0\Tipos_d_referencia.dll
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\bin\Debug\net10.0\Tipos_d_referencia.pdb
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\Tipos_d_referencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\Tipos_d_referencia.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\Tipos_d_referencia.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\Tipos_d_referencia.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\Tipos_d_referencia.dll
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\refint\Tipos_d_referencia.dll
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\Tipos_d_referencia.pdb
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\Tipos_d_referencia.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\Tipos_d_referencia\obj\Debug\net10.0\ref\Tipos_d_referencia.dll

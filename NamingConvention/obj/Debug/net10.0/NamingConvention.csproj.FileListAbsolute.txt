@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\bin\Debug\net10.0\NamingConvention.exe
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\bin\Debug\net10.0\NamingConvention.deps.json
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\bin\Debug\net10.0\NamingConvention.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\bin\Debug\net10.0\NamingConvention.dll
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\bin\Debug\net10.0\NamingConvention.pdb
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.dll
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\refint\NamingConvention.dll
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.pdb
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\NamingConvention.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\NamingConvention\obj\Debug\net10.0\ref\NamingConvention.dll

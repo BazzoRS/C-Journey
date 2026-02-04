@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\bin\Debug\net10.0\Arithmetic_operators.exe
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\bin\Debug\net10.0\Arithmetic_operators.deps.json
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\bin\Debug\net10.0\Arithmetic_operators.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\bin\Debug\net10.0\Arithmetic_operators.dll
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\bin\Debug\net10.0\Arithmetic_operators.pdb
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.dll
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\refint\Arithmetic_operators.dll
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.pdb
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\Arithmetic_operators.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\Arithmetic_operators\obj\Debug\net10.0\ref\Arithmetic_operators.dll

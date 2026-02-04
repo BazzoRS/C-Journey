@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\bin\Debug\net10.0\InputDataConsole.exe
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\bin\Debug\net10.0\InputDataConsole.deps.json
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\bin\Debug\net10.0\InputDataConsole.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\bin\Debug\net10.0\InputDataConsole.dll
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\bin\Debug\net10.0\InputDataConsole.pdb
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.dll
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\refint\InputDataConsole.dll
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.pdb
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\InputDataConsole.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\InputDataConsole\obj\Debug\net10.0\ref\InputDataConsole.dll

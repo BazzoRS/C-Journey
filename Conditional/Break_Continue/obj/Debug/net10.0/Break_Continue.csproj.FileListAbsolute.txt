@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.sourcelink.json
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\bin\Debug\net10.0\Break_Continue.exe
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\bin\Debug\net10.0\Break_Continue.deps.json
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\bin\Debug\net10.0\Break_Continue.runtimeconfig.json
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\bin\Debug\net10.0\Break_Continue.dll
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\bin\Debug\net10.0\Break_Continue.pdb
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.dll
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\refint\Break_Continue.dll
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.pdb
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\Break_Continue.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\C_journey\Conditional\Break_Continue\obj\Debug\net10.0\ref\Break_Continue.dll

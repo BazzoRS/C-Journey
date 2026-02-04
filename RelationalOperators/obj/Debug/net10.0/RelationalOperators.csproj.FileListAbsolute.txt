@@ -1,0 +1,15 @@
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\bin\Debug\net10.0\RelationalOperators.exe
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\bin\Debug\net10.0\RelationalOperators.deps.json
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\bin\Debug\net10.0\RelationalOperators.runtimeconfig.json
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\bin\Debug\net10.0\RelationalOperators.dll
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\bin\Debug\net10.0\RelationalOperators.pdb
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.sourcelink.json
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.dll
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\refint\RelationalOperators.dll
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.pdb
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\RelationalOperators.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\First_Class\RelationalOperators\obj\Debug\net10.0\ref\RelationalOperators.dll

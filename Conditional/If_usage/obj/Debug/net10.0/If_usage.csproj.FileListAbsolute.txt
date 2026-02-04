@@ -1,0 +1,14 @@
+C:\Users\Bazzo\source\repos\If_usage\If_usage\bin\Debug\net10.0\If_usage.exe
+C:\Users\Bazzo\source\repos\If_usage\If_usage\bin\Debug\net10.0\If_usage.deps.json
+C:\Users\Bazzo\source\repos\If_usage\If_usage\bin\Debug\net10.0\If_usage.runtimeconfig.json
+C:\Users\Bazzo\source\repos\If_usage\If_usage\bin\Debug\net10.0\If_usage.dll
+C:\Users\Bazzo\source\repos\If_usage\If_usage\bin\Debug\net10.0\If_usage.pdb
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\If_usage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\If_usage.AssemblyInfoInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\If_usage.AssemblyInfo.cs
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\If_usage.csproj.CoreCompileInputs.cache
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\If_usage.dll
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\refint\If_usage.dll
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\If_usage.pdb
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\If_usage.genruntimeconfig.cache
+C:\Users\Bazzo\source\repos\If_usage\If_usage\obj\Debug\net10.0\ref\If_usage.dll
